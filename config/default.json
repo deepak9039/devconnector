@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://IBEK2021:IBEK2021@cluster0.wy0gy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://IBEK2021:IBEK2021@cluster0.wy0gy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "hellothisissecretkey"
 }
