@@ -70,7 +70,7 @@ const ProfileSchema = new mongoose.Schema({
                 type:String,
                 required:true,
             },
-            fieldfostudy:{
+            fieldofstudy:{
                 type:String,
                 required:true,
             },
